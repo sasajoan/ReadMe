@@ -20,4 +20,4 @@ team-centered. Software engineering is not a typical 9 to 5 job, it is a stressf
 we are doing. I cope very well with stress and I will not let it demotivate me and negatively reflect on my work. We all realize 
 that the job diversity is extending along with the new technology: working with real-time devices, mobile devices, web sites and 
 web applications, server side development, database code and many more. There are plenty of functions and places for us, who 
-like to code, where we will find our best one. 
+like to code, where we can find our best one. 
